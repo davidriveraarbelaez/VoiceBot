@@ -1,0 +1,122 @@
+[
+    {
+        "ID_Cliente": "1",
+        "Nombre_Cliente": "Juan Perez",
+        "Fecha_Nacimiento": "1985-01-15",
+        "Número_Documento": "12345678",
+        "Teléfono_Contacto": "555-1234",
+        "Correo_Electrónico": "juan.perez@example.com",
+        "Monto_Deuda": 1500.50,
+        "Fecha_Vencimiento": "2023-12-01",
+        "Estado_Cuenta": "Activo",
+        "Historial_Pagos": ["2023-01-01", "2023-02-01", "2023-03-01"]
+    },
+    {
+        "ID_Cliente": "2",
+        "Nombre_Cliente": "Maria Gomez",
+        "Fecha_Nacimiento": "1990-05-20",
+        "Número_Documento": "87654321",
+        "Teléfono_Contacto": "555-5678",
+        "Correo_Electrónico": "maria.gomez@example.com",
+        "Monto_Deuda": 2500.75,
+        "Fecha_Vencimiento": "2023-11-15",
+        "Estado_Cuenta": "Activo",
+        "Historial_Pagos": ["2023-01-15", "2023-02-15", "2023-03-15"]
+    },
+    {
+        "ID_Cliente": "3",
+        "Nombre_Cliente": "Carlos Ruiz",
+        "Fecha_Nacimiento": "1978-09-10",
+        "Número_Documento": "11223344",
+        "Teléfono_Contacto": "555-8765",
+        "Correo_Electrónico": "carlos.ruiz@example.com",
+        "Monto_Deuda": 3000.00,
+        "Fecha_Vencimiento": "2023-10-20",
+        "Estado_Cuenta": "Activo",
+        "Historial_Pagos": ["2023-01-20", "2023-02-20", "2023-03-20"]
+    },
+    {
+        "ID_Cliente": "4",
+        "Nombre_Cliente": "Ana Martinez",
+        "Fecha_Nacimiento": "1982-12-05",
+        "Número_Documento": "55667788",
+        "Teléfono_Contacto": "555-4321",
+        "Correo_Electrónico": "ana.martinez@example.com",
+        "Monto_Deuda": 1200.25,
+        "Fecha_Vencimiento": "2023-09-25",
+        "Estado_Cuenta": "Activo",
+        "Historial_Pagos": ["2023-01-25", "2023-02-25", "2023-03-25"]
+    },
+    {
+        "ID_Cliente": "5",
+        "Nombre_Cliente": "Luis Fernandez",
+        "Fecha_Nacimiento": "1995-03-30",
+        "Número_Documento": "99887766",
+        "Teléfono_Contacto": "555-6789",
+        "Correo_Electrónico": "luis.fernandez@example.com",
+        "Monto_Deuda": 1800.60,
+        "Fecha_Vencimiento": "2023-08-30",
+        "Estado_Cuenta": "Activo",
+        "Historial_Pagos": ["2023-01-30", "2023-02-28", "2023-03-30"]
+    },
+    {
+        "ID_Cliente": "6",
+        "Nombre_Cliente": "Laura Sanchez",
+        "Fecha_Nacimiento": "1988-07-25",
+        "Número_Documento": "33445566",
+        "Teléfono_Contacto": "555-9876",
+        "Correo_Electrónico": "laura.sanchez@example.com",
+        "Monto_Deuda": 2200.80,
+        "Fecha_Vencimiento": "2023-07-15",
+        "Estado_Cuenta": "Activo",
+        "Historial_Pagos": ["2023-01-15", "2023-02-15", "2023-03-15"]
+    },
+    {
+        "ID_Cliente": "7",
+        "Nombre_Cliente": "Pedro Ramirez",
+        "Fecha_Nacimiento": "1975-11-11",
+        "Número_Documento": "66778899",
+        "Teléfono_Contacto": "555-5432",
+        "Correo_Electrónico": "pedro.ramirez@example.com",
+        "Monto_Deuda": 2750.90,
+        "Fecha_Vencimiento": "2023-06-10",
+        "Estado_Cuenta": "Activo",
+        "Historial_Pagos": ["2023-01-10", "2023-02-10", "2023-03-10"]
+    },
+    {
+        "ID_Cliente": "8",
+        "Nombre_Cliente": "Sofia Lopez",
+        "Fecha_Nacimiento": "1992-02-14",
+        "Número_Documento": "44556677",
+        "Teléfono_Contacto": "555-6543",
+        "Correo_Electrónico": "sofia.lopez@example.com",
+        "Monto_Deuda": 1950.45,
+        "Fecha_Vencimiento": "2023-05-05",
+        "Estado_Cuenta": "Activo",
+        "Historial_Pagos": ["2023-01-05", "2023-02-05", "2023-03-05"]
+    },
+    {
+        "ID_Cliente": "9",
+        "Nombre_Cliente": "Jorge Torres",
+        "Fecha_Nacimiento": "1980-06-18",
+        "Número_Documento": "22334455",
+        "Teléfono_Contacto": "555-7654",
+        "Correo_Electrónico": "jorge.torres@example.com",
+        "Monto_Deuda": 1600.35,
+        "Fecha_Vencimiento": "2023-04-20",
+        "Estado_Cuenta": "Activo",
+        "Historial_Pagos": ["2023-01-20", "2023-02-20", "2023-03-20"]
+    },
+    {
+        "ID_Cliente": "10",
+        "Nombre_Cliente": "Elena Diaz",
+        "Fecha_Nacimiento": "1998-08-22",
+        "Número_Documento": "77889900",
+        "Teléfono_Contacto": "555-8765",
+        "Correo_Electrónico": "elena.diaz@example.com",
+        "Monto_Deuda": 2100.70,
+        "Fecha_Vencimiento": "2023-03-15",
+        "Estado_Cuenta": "Activo",
+        "Historial_Pagos": ["2023-01-15", "2023-02-15", "2023-03-15"]
+    }
+]

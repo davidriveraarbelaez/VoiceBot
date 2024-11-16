@@ -2,13 +2,14 @@
 
 1. Estructura base del proyecto
 
-/VoiceBot
-    /static
-     - style.css
-    /templates
-     - index.html
-    app.py
-    voicebot_logic.py
+/
+├── VoiceBot
+├── static
+│   ├──style.css
+├── templates
+│   ├──index.html
+├── app.py
+└── voicebot_logic.py
 
 2. Backend con Flask
 3. Lógica del VoiceBot.
